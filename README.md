@@ -1,16 +1,15 @@
-## Hi there 👋
+# Anatolii Semenchuk — iOS Developer
 
-<!--
-**Velovo123/Velovo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile engineer focused on native iOS with Swift & SwiftUI.
+Currently open to junior iOS roles.
 
-Here are some ideas to get you started:
+## Projects
+- **[CryptoScope](https://github.com/Velovo123/CryptoScopeApp)** — Live crypto tracker, SwiftUI, CoinGecko API · [Demo](https://youtube.com/shorts/xFj2Z1fwibc)
+- **[TukTuk](https://github.com/Velovo123/TukTukFoodDelivery)** — Food delivery & taxi app, SwiftUI, MapKit · [Demo](https://youtube.com/shorts/OKgAeHHv92s)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Swift · SwiftUI · UIKit · MapKit · MVVM · .NET MAUI · REST APIs · WebSockets · MQTT
+
+## Contact
+📧 anatoliyysemenchuk@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/anatolii-semenchuk-066527285/)
