@@ -8,7 +8,7 @@ Mobile engineer focused on native iOS with Swift & SwiftUI.
 - **[Reverie](https://github.com/Velovo123/ReverieChatApp)** — Realtime chat app, SwiftUI, Supabase WebSockets, Metal shaders · [Demo](https://youtube.com/shorts/zwh22iN2SeU)
 
 ## Skills
-Swift · SwiftUI · UIKit · MapKit · MVVM · .NET MAUI · REST APIs · WebSockets · MQTT
+Swift · SwiftUI · UIKit · MapKit · MVVM · .NET MAUI · REST APIs · WebSockets
 
 ## Contact
 📧 anatoliyysemenchuk@gmail.com
